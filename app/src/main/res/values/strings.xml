@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">KembarLaundryApp</string>
+    <string name="text_signin_message">Silahkan masuk terlebih dahulu</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="text_forgot_password">Lupa password</string>
+    <string name="button_sign_in">Masuk</string>
+    <string name="text_signin_signup">Daftar</string>
+    <string name="text_signup_message">Daftar</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Nomor Telepon</string>
+    <string name="hint_confirm_password">Ketik Ulang Password</string>
+    <string name="button_sign_up">Daftar</string>
+    <string name="text_signup_social_media">Sosial Media</string>
+    <string name="text_signup_terms"><![CDATA[T&C]]></string>
+</resources>
